@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <br>
 The student registration system project allow us to create a UI of a simple registration management system
 <br>
+<br>
 The UI allow the user to:
 <ul>
   <li>Register new student to a course</li>
